@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@polymer/lit-element": "^0.7.1",
+    "@vaadin/vaadin-button": "^2.2.2",
+    "@vaadin/vaadin-notification": "^1.4.0"
+  }
+}
